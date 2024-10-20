@@ -1,5 +1,5 @@
 # Python-Uygulama2
-# Minimum Öklid Mesafesinin Hesaplanması
+### Minimum Öklid Mesafesinin Hesaplanması
 
 points = [(2, 3), (4, 1), (-1, -3), (5, 8), (0, 0)]
 distances = []
